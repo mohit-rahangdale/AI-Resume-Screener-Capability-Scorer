@@ -16,11 +16,9 @@ It analyzes multiple resume PDFs, predicts the most suitable job role, and score
 
 ---
 
-## Project Structure
 
-
-
-## 🗂️ Folder Structure
+text```
+## Folder Structure
 
 resume_matcher/
 ├── app.py
