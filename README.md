@@ -17,7 +17,7 @@ It analyzes multiple resume PDFs, predicts the most suitable job role, and score
 ---
 
 
-text```
+```
 ## Folder Structure
 
 resume_matcher/
