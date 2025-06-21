@@ -40,7 +40,7 @@ resume_matcher/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository and install dependencies
 ```bash
