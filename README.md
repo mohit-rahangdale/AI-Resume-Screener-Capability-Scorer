@@ -17,6 +17,12 @@ It analyzes multiple resume PDFs, predicts the most suitable job role, and score
 ---
 
 
+### 📤 Resume Upload and Scoring
+![Resume Upload UI](assets/interface_upload.png)
+
+### 📊 Ranked Resume Results
+![Resume Ranking UI](assets/interface_results.png)
+
 
 ## Folder Structure
 ```
