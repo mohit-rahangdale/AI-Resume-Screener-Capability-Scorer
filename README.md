@@ -21,7 +21,7 @@ It analyzes multiple resume PDFs, predicts the most suitable job role, and score
 ![Resume Upload UI](https://github.com/mohit-rahangdale/AI-Resume-Screener-Capability-Scorer/blob/main/image.png?raw=true)
 
 ### 📊 Ranked Resume Results
-![Resume Ranking UI](assets/interface_results.png)
+![Resume Ranking UI](https://github.com/mohit-rahangdale/AI-Resume-Screener-Capability-Scorer/blob/main/image.png?raw=true)
 
 
 ## Folder Structure
